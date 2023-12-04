@@ -1,5 +1,5 @@
 # NCCU-server-status
-A script of server status widget for Scriptable
+A script of server status widget for [Scriptable](https://scriptable.app/)
 
 ### First. About
 NCCU-server-status.js is a script of server status widget for Scriptable which available on iOS/iPad OS.
