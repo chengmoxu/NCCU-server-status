@@ -11,3 +11,6 @@ NCCU-server-status.js is a script of server status widget for Scriptable which a
 
 ### Third. Instructions for use
 Copy NCCU-server-status.js to folder iCloud Drive > Scriptable
+
+### Fourth. Known issues
+When the webpage is not functioning normally, the widget still displays that the webpage is functioning normally.
